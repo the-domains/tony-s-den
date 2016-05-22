@@ -1,0 +1,28 @@
+name: "Tony's Den"
+favicon: null
+layout_spectrum: 0.2757384201977402
+typography_spectrum: 0.4552378028165549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8856189369689673
+  lightness: 0.5808384427800775
+  saturation: 0.5329243468586355
+  rhythmicContrast: 0.5849407841451466
+purpose: []
